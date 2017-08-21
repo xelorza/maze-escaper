@@ -3,7 +3,7 @@ Arduino Project
 ***************
 **Important Sources**
 -Maze Solving Algorithm :
-https://en.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWF6ZV9zb2x2aW5nX2FsZ29yaXRobQ \n
+https://en.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWF6ZV9zb2x2aW5nX2FsZ29yaXRobQ
 -Maze to Graph :
 http://bryukh.com/labyrinth-algorithms/
 -A* Search :
